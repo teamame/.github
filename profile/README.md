@@ -4,4 +4,4 @@ We're the AmeOS team! We're striving to change the future of computing completel
 We're working on:
 - AmeOS Panamint, our linux distribution that completely redefines the desktop experience
 and soon...
-- AmeOS for Android, the first ever lightest custom ROM created
+- AmeOS for Android, a custom ROM that balances design and customization
